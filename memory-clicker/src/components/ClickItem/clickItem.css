@@ -1,0 +1,9 @@
+.clickItem {
+    width: 30%;
+    height: 100px;
+    border: 2px solid red;
+    margin: 5px;
+    display: inline-block;
+    cursor: pointer;
+    background: gray;
+}

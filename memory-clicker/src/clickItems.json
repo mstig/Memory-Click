@@ -1,0 +1,62 @@
+[
+    {
+        "letter": "A",
+        "clicked": false,
+        "src": "./images/animals/bear.jpg"
+    },
+    {
+        "letter": "B",
+        "clicked": false,
+        "src": "/images/animals/elephant.jpg"
+    },
+    {
+        "letter": "C",
+        "clicked": false,
+        "src": "/images/animals/giraffes.jpg"
+    },
+    {
+        "letter": "D",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "E",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "F",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "G",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "H",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "I",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "J",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "K",
+        "clicked": false,
+        "src": "#"
+    },
+    {
+        "letter": "L",
+        "clicked": false,
+        "src": "#"
+    }
+]
