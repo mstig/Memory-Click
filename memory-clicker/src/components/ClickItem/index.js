@@ -3,15 +3,16 @@ import "./clickItem.css"
 
 
 const ClickItem = (props) => {
+
     return (
         <div
             onClick={() => props.handleItemClick(props.letter)}
             className="clickItem"
         >
-            {props.letter}
             <img
+                classname="clickImg"
                 src={props.src}
-                alt=""
+                alt={props.letter}
             />
         </div>
     )

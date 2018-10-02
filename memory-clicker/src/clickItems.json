@@ -2,7 +2,7 @@
     {
         "letter": "A",
         "clicked": false,
-        "src": "./images/animals/bear.jpg"
+        "src": "/images/animals/bear.jpg"
     },
     {
         "letter": "B",
@@ -17,46 +17,46 @@
     {
         "letter": "D",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/gorilla.jpg"
     },
     {
         "letter": "E",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/hedgehogs.jpg"
     },
     {
         "letter": "F",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/kittens.jpg"
     },
     {
         "letter": "G",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/ponies.jpg"
     },
     {
         "letter": "H",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/puppies.jpg"
     },
     {
         "letter": "I",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/snake.jpg"
     },
     {
         "letter": "J",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/tiger.jpg"
     },
     {
         "letter": "K",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/turtle.jpg"
     },
     {
         "letter": "L",
         "clicked": false,
-        "src": "#"
+        "src": "/images/animals/zebras.jpg"
     }
 ]

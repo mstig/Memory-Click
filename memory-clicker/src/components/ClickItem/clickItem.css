@@ -1,9 +1,18 @@
 .clickItem {
-    width: 30%;
-    height: 100px;
-    border: 2px solid red;
+    width: 32%;
+    height: 200px;
+    border: 2px solid darkred;
     margin: 5px;
     display: inline-block;
     cursor: pointer;
     background: gray;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.clickImg {
+    display: inline-block;
+    margin: 0 auto;
+    height: 100%;
 }

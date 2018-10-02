@@ -58,8 +58,8 @@ class GameContainer extends Component {
         console.log(this.state);
         return (
             <div className="main-wrapper">
-                <h1>Current Score: {this.state.score}</h1>
-                <h2>High Score: {this.state.highScore}</h2>
+                <h3>Current Score: {this.state.score}</h3>
+                <h4>High Score: {this.state.highScore}</h4>
                 {this.state.clickers.map(item =>
                     <ClickItem
                         key={item.letter}
