@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "homepage": "https://mstig.github.io/Memory-Click/",
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
   }
 }
