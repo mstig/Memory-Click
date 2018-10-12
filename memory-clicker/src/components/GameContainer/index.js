@@ -58,7 +58,12 @@ class GameContainer extends Component {
         console.log(this.state);
         return (
             <div className="main-wrapper">
-                <h3>Current Score: {this.state.score}</h3>
+                <div class="jumbotron jumbotron-fluid">
+                    <div class="container text-center">
+                        <h1 class="display-4">Animal Memory Clicker</h1>
+                        <p class="lead">Click all of the animals without selecting a duplicate!</p>
+                    </div>
+                </div>                <h3>Current Score: {this.state.score}</h3>
                 <h4>High Score: {this.state.highScore}</h4>
                 {this.state.clickers.map(item =>
                     <ClickItem

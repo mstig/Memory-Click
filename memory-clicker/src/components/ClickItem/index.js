@@ -7,7 +7,7 @@ const ClickItem = (props) => {
     return (
         <div
             onClick={() => props.handleItemClick(props.letter)}
-            className="clickItem"
+            className="clickItem col-10 col-sm-6 col-md-4 col-lg-4 col-xl-4"
         >
             <img
                 classname="clickImg"

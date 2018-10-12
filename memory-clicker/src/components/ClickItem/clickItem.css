@@ -1,7 +1,8 @@
 .clickItem {
     width: 32%;
-    height: 200px;
+    height: 13rem;
     border: 2px solid darkred;
+    border-radius: 5px;
     margin: 5px;
     display: inline-block;
     cursor: pointer;
