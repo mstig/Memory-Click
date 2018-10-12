@@ -2,61 +2,61 @@
     {
         "letter": "A",
         "clicked": false,
-        "src": "/images/animals/bear.jpg"
+        "src": "images/animals/bear.jpg"
     },
     {
         "letter": "B",
         "clicked": false,
-        "src": "/images/animals/elephant.jpg"
+        "src": "images/animals/elephant.jpg"
     },
     {
         "letter": "C",
         "clicked": false,
-        "src": "/images/animals/giraffes.jpg"
+        "src": "images/animals/giraffes.jpg"
     },
     {
         "letter": "D",
         "clicked": false,
-        "src": "/images/animals/gorilla.jpg"
+        "src": "images/animals/gorilla.jpg"
     },
     {
         "letter": "E",
         "clicked": false,
-        "src": "/images/animals/hedgehogs.jpg"
+        "src": "images/animals/hedgehogs.jpg"
     },
     {
         "letter": "F",
         "clicked": false,
-        "src": "/images/animals/kittens.jpg"
+        "src": "images/animals/kittens.jpg"
     },
     {
         "letter": "G",
         "clicked": false,
-        "src": "/images/animals/ponies.jpg"
+        "src": "images/animals/ponies.jpg"
     },
     {
         "letter": "H",
         "clicked": false,
-        "src": "/images/animals/puppies.jpg"
+        "src": "images/animals/puppies.jpg"
     },
     {
         "letter": "I",
         "clicked": false,
-        "src": "/images/animals/snake.jpg"
+        "src": "images/animals/snake.jpg"
     },
     {
         "letter": "J",
         "clicked": false,
-        "src": "/images/animals/tiger.jpg"
+        "src": "images/animals/tiger.jpg"
     },
     {
         "letter": "K",
         "clicked": false,
-        "src": "/images/animals/turtle.jpg"
+        "src": "images/animals/turtle.jpg"
     },
     {
         "letter": "L",
         "clicked": false,
-        "src": "/images/animals/zebras.jpg"
+        "src": "images/animals/zebras.jpg"
     }
 ]
